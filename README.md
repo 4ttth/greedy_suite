@@ -42,15 +42,15 @@ python tests/test_algorithms.py
 
 ---
 
-## Group Member Allocation
+## Function Allocation
 
-| Member | Algorithm | Greedy Strategy |
+| Function | Algorithm | Greedy Strategy |
 |--------|-----------|-----------------|
-| Member 1 | Coin Change Problem | Largest denomination first |
-| Member 2 | Huffman Coding | Merge lowest-frequency nodes |
-| Member 3 | Fractional Knapsack | Highest value/weight ratio |
-| Member 4 | Job Scheduling with Deadlines | Highest profit first |
-| Member 5 | Menu system, integration & testing | — |
+| Function 1 | Coin Change Problem | Largest denomination first |
+| Function 2 | Huffman Coding | Merge lowest-frequency nodes |
+| Function 3 | Fractional Knapsack | Highest value/weight ratio |
+| Function 4 | Job Scheduling with Deadlines | Highest profit first |
+| Function 5 | Menu system, integration & testing | — |
 
 ---
 
